@@ -7,10 +7,15 @@ Initial Function()
 
 Initial Security()
 {
- //Sample Code
+ //Sample Code//
+
+ //
+feaature2()
+{
+  //Sample Code for Feature 2
+>>>>>>> added feature2
 }
 
 {
-//This is feature1 add on
 //This is feature2 add on
 }
